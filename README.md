@@ -14,10 +14,10 @@ oh god who am i  ? ??
 
 ## Work Experience
 
-### Bulb
-**(Multiple roles October 2018 - June 2021)**
+### Bulb (Multiple roles October 2018 - June 2021)
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
+
 
 **Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
@@ -37,10 +37,28 @@ This role involved:
 - Project planning, roadmapping, and calculating quarterly targets
 - Negotiating with MAPs to receive repayments
 
-**Company Name** (start-date to end-date)  
-_Your job title_
 
-- Any experience relevent to software development
+**Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
+
+_Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days
+
+Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate. This role involved:
+
+- Delivering a project to ensure Bulb’s industry data is up to date
+- Basic Python, advanced Excel (self-taught)
+- Building a robust process to validate monthly datasets from Ofgem
+- Write comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
+- Carrying out complex procedures to update industry wide databases successfully
+
+
+**Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
+
+Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service. This role involved:
+
+- A deep understanding of the energy industry to provide complete and informative member service
+- Completing operational tasks, which in other companies are handled by 10-15 departments
+- Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
+
 
 ## Skills
 
