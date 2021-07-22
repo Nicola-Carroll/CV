@@ -102,7 +102,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### University of Birstol (September 2021 - June 2018)
-**Mathematics MSci (Integrated Master's), First Class (Hons)**
+_Mathematics MSci (Integrated Master's), First Class (Hons)_
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
 - Completed written independent research projects between 20-100 pages in length
