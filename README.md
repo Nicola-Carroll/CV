@@ -14,10 +14,7 @@ oh god who am i  ? ??
 
 ## Work Experience
 
-### [Bulb](https://bulb.co.uk/mission/), Multiple roles, (October 2018 - June 2021)
-
-\
-**Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
+**Bulb, Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
 _Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
 
@@ -35,7 +32,7 @@ This role involved:
 - Negotiating with MAPs to receive repayments
 
 \
-**Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
+**Bulb, Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
 
 _Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days)
 
@@ -47,7 +44,7 @@ Industry databases contain outdated information. For Faster Switching to succeed
 - Write comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 
 \
-**Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
+**Bulb, Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service. This role involved:
 
