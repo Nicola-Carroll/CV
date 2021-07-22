@@ -111,9 +111,10 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 
 ## Interests/Hobbies
 
-#### Codey stuff
+#### Nerd stuff
 - I attend a weekly TDD mobbing session run by the Ladies of Code London group to practice katas in Python
 - I'm teaching myself Flask (Python Web Framework) in my spare time
+- Videogames
 
 #### Sporty stuff
 - Netball
