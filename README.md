@@ -15,9 +15,9 @@ oh god who am i  ? ??
 ## Work Experience
 
 ### Bulb
-### Multiple roles (October 2018 - June 2021)
-
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
+
+### Multiple roles (October 2018 - June 2021)
 
 \
 **Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
