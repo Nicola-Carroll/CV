@@ -43,7 +43,9 @@ This role involved:
 
 _Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days)
 
-Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate. This role involved:
+Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
+
+This role involved:
 
 - Delivering a project to ensure Bulb’s industry data is up to date
 - Basic Python, advanced Excel (self-taught)
@@ -53,7 +55,9 @@ Industry databases contain outdated information. For Faster Switching to succeed
 \
 **Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
 
-Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service. This role involved:
+Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
+
+This role involved:
 
 - A deep understanding of the energy industry to provide complete and informative member service
 - Completing operational tasks, which in other companies are handled by 10-15 departments
