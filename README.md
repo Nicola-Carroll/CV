@@ -37,8 +37,8 @@ This role involved:
 - Root cause analysis on inaccurate MAP backing data, to develop internal operational processes which improve data passback to MAPs
 - Project planning, roadmapping, and calculating quarterly targets
 - Negotiating with MAPs to receive repayments
-
-
+<br />
+<br />
 **Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
 
 _Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days
