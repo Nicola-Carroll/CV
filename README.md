@@ -14,7 +14,7 @@ oh god who am i  ? ??
 
 ## Work Experience
 
-### Bulb 
+### Bulb (October 2018 - June 2021) (Multiple roles)
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
