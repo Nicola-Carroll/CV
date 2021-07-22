@@ -109,10 +109,6 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 - Used various mathematical softwares, such as MATLAB, Maple, R and LaTeX
 - Gained strong numerical, analytic and problem-solving skills and high attention to detail
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Interests/Hobbies
 
 #### Codey stuff
