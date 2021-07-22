@@ -18,8 +18,8 @@ oh god who am i  ? ??
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
-
-
+<br />
+<br />
 **Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
 _Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
@@ -37,6 +37,7 @@ This role involved:
 - Root cause analysis on inaccurate MAP backing data, to develop internal operational processes which improve data passback to MAPs
 - Project planning, roadmapping, and calculating quarterly targets
 - Negotiating with MAPs to receive repayments
+
 <br />
 <br />
 **Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
@@ -51,7 +52,8 @@ Industry databases contain outdated information. For Faster Switching to succeed
 - Write comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 - Carrying out complex procedures to update industry wide databases successfully
 
-
+<br />
+<br />
 **Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service. This role involved:
@@ -60,7 +62,8 @@ Bulb’s Member Operations team functions without departments to provide a holis
 - Completing operational tasks, which in other companies are handled by 10-15 departments
 - Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
 
-
+<br />
+<br />
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
