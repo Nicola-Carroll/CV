@@ -23,15 +23,14 @@ oh god who am i  ? ??
 
 _Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
 
-- Bulb receives ~100 monthly invoices from ~30 different MAPs for the daily rental, removal, and non-return of meter assets
+- Bulb receives ~100 monthly invoices from ~30 different MAPs for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year
 - MAPs notoriously use inaccurate data for these invoices, resulting in millions of pounds of overcharges
-- MAP invoices account for over £60mil a year
 
-Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created an automated process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will continue to grow for as long as the process is run.
+Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created and automated process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will continue to grow for as long as the process is run.
 
 This role involved:
 
-- Independently building from scratch and automating a process to check MAP backing data against accurate industry data, and to dispute any identified overcharges
+- Building and automating a process to check MAP invoice backing data against accurate industry data, and to dispute any identified overcharges
 - Python, SQL, advanced Excel, git (self-taught)
 - Root cause analysis on inaccurate MAP backing data, to develop internal operational processes which improve data passback to MAPs
 - Project planning, roadmapping, and calculating quarterly targets
@@ -40,7 +39,7 @@ This role involved:
 \
 **Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
 
-_Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days
+_Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days)
 
 Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate. This role involved:
 
@@ -48,7 +47,6 @@ Industry databases contain outdated information. For Faster Switching to succeed
 - Basic Python, advanced Excel (self-taught)
 - Building a robust process to validate monthly datasets from Ofgem
 - Write comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
-- Carrying out complex procedures to update industry wide databases successfully
 
 \
 **Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
