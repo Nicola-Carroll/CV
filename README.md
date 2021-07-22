@@ -1,6 +1,9 @@
-## Your Name
+## Nicola Carroll
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
+
+oh god who am i  ? ??
 
 ## Projects
 
@@ -11,10 +14,23 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Bulb** (May 2020 - June 2021)  
+_Project Lead (MAP Invoice Reconciliation)_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+**Meter Asset Provider (MAP):** a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
+Bulb receives 100+ monthly invoices from around 30 different MAPs for the daily rental, removal, and non-return of meter assets
+
+- MAPs notoriously use inaccurate data for these invoices, resulting in millions of pounds of overcharges
+- MAP invoices account for over £60mil a year
+
+Until May 2020 these invoices were paid in full, with no validation performed on the backing data. This role involved:
+
+- Delivering a project with potential annual savings for Bulb estimated at £5mil
+- Independently building from scratch and automating a process to check MAP backing data against accurate industry data, and to dispute any identified overcharges
+- Python, SQL, advanced Excel, git (self-taught)
+- Root cause analysis on inaccurate MAP backing data, to develop internal operational processes which improve data passback to MAPs
+- Project planning, roadmapping, and calculating quarterly targets
+- Negotiating with MAPs to receive repayments
 
 **Company Name** (start-date to end-date)  
 _Your job title_
