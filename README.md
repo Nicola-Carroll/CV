@@ -14,18 +14,19 @@ oh god who am i  ? ??
 
 ## Work Experience
 
-**Bulb** (May 2020 - June 2021)  
-_Project Lead (MAP Invoice Reconciliation)_
+#### Bulb  
+**Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
-**Meter Asset Provider (MAP):** a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
-Bulb receives 100+ monthly invoices from around 30 different MAPs for the daily rental, removal, and non-return of meter assets
+_Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
 
+- Bulb receives ~100 monthly invoices from ~30 different MAPs for the daily rental, removal, and non-return of meter assets
 - MAPs notoriously use inaccurate data for these invoices, resulting in millions of pounds of overcharges
 - MAP invoices account for over £60mil a year
 
-Until May 2020 these invoices were paid in full, with no validation performed on the backing data. This role involved:
+Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created an automated process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will continue to grow for as long as the process is run.
 
-- Delivering a project with potential annual savings for Bulb estimated at £5mil
+This role involved:
+
 - Independently building from scratch and automating a process to check MAP backing data against accurate industry data, and to dispute any identified overcharges
 - Python, SQL, advanced Excel, git (self-taught)
 - Root cause analysis on inaccurate MAP backing data, to develop internal operational processes which improve data passback to MAPs
