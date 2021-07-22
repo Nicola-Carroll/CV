@@ -1,7 +1,7 @@
 ## Nicola Carroll
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
+<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+ -->
 
 oh god who am i  ? ??
 
@@ -92,7 +92,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (July 2021 to October 2021)
+#### Makers Academy (July 2021 - October 2021)
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
