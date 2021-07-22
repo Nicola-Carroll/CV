@@ -14,7 +14,10 @@ oh god who am i  ? ??
 
 ## Work Experience
 
-#### Bulb  
+### Bulb 
+
+[Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
+
 **Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
 _Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
