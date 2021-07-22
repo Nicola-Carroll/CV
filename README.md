@@ -14,7 +14,8 @@ oh god who am i  ? ??
 
 ## Work Experience
 
-### Bulb (Multiple roles October 2018 - June 2021)
+### Bulb
+### Multiple roles (October 2018 - June 2021)
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
@@ -56,8 +57,8 @@ Bulb’s Member Operations team functions without departments to provide a holis
 - A deep understanding of the energy industry to provide complete and informative member service
 - Completing operational tasks, which in other companies are handled by 10-15 departments
 - Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
-
 \
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
