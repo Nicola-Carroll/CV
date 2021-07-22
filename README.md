@@ -109,7 +109,7 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 - Used various mathematical softwares, such as MATLAB, Maple, R and LaTeX
 - Gained strong numerical, analytic and problem-solving skills and high attention to detail
 
-## Interests/Hobbies
+## Interests and hobbies
 
 #### Nerd stuff
 - I attend a weekly TDD mobbing session run by the Ladies of Code London group to practice katas in Python
