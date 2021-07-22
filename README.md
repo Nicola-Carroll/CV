@@ -16,8 +16,11 @@ oh god who am i  ? ??
 
 ### Bulb (Multiple roles) (October 2018 - June 2021)
 
-[Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20. During my 2 yr 8 mon at Bulb, I had three different roles.
+[Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
+During my time at Bulb, I had three different roles which gradually lead me towards the decision to pursue Software Development.
+
+\
 **Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
 _Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
@@ -55,7 +58,7 @@ Bulb’s Member Operations team functions without departments to provide a holis
 - A deep understanding of the energy industry to provide complete and informative member service
 - Completing operational tasks, which in other companies are handled by 10-15 departments
 - Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
-\
+
 
 ## Skills
 
