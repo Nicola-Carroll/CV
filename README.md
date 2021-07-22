@@ -92,7 +92,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2021 to October 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -101,16 +101,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Birstol (September 2021 - June 2018)
+**Mathematics MSci (Integrated Master's), First Class (Hons)**
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
+- Completed written independent research projects between 20-100 pages in length
+- Used various mathematical softwares, such as MATLAB, Maple, R and LaTeX
+- Gained strong numerical, analytic and problem-solving skills and high attention to detail
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Interests/Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+#### Codey stuff
+- I attend a weekly TDD mobbing session run by the Ladies of Code London group to practice katas in Python
+- I'm teaching myself Flask (Python Web Framework) in my spare time
+
+#### Sporty stuff
+- Netball
+- Yoga
+- Running
+- Anything which involves running around and catching/throwing/or hitting things with a bat!
+
