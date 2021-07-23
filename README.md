@@ -29,8 +29,8 @@ oh god who am i  ? ??
 
 During my time at Bulb, I had three different roles which gradually lead me towards the decision to pursue Software Development.
 
-\
 
+\
 **Project Lead (MAP Invoice Reconciliation)** (May 2020 - June 2021)
 
 _Meter Asset Provider (MAP):_ a third party within the energy industry, responsible for the provision and ownership of gas and electricity meters 
