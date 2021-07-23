@@ -107,17 +107,19 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 
 As a Maths graduate, I have an aptitude for logical thinking and a curious mindset. I'm always excited to identify and address the root cause of the problem I'm working on.
 
-At Bulb, I lead a cash-preservation project on MAP Invoicing, which so far has saved Bulb £1mil and counting. The low data quality in the MAP invoices was in some part due to poor data passback between energy suppliers and MAPs. The process I developed claimed back money **after** Bulb have been overcharged. Alongside this I worked on addressing the root cause of the overcharges. I collated a large sample of meters with incorrect charges and anaylsed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speaking with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, we developed a weekly operational task which would prevent meters from being charged incorrectly by MAPs in the first place.
+At Bulb, I lead a cash-preservation project on MAP Invoicing, which has saved Bulb £1mil and counting. The low data quality in the MAP invoices was in some part due to poor data passback between energy suppliers and MAPs. The process I developed claimed back money **after** Bulb have been overcharged. Alongside this I worked on addressing the root cause of these overcharges. I collated a large sample of meters with incorrect charges and anaylsed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speaking with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, we developed a weekly operational task which would prevent meters from being charged incorrectly by MAPs in the first place.
 
 #### Communication
 
-I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at an underpriviledged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. While working on Data Cleansing
-
-#### Self-starter and independent learner
+I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at an underpriviledged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. During my Data Cleansing (Faster Switching) role at Bulb, I was responsible for delivering clear, conscise training resources to onboard Operational Assistants.
 
 
+#### Other skills
 
-
+- **Quick learner:** to be able to deliver quickly on my Data Cleansing, and MAP Invoicing projects at Bulb, I had to teach myself Python and SQL, and upskill in Excel
+- **Self-starter:** a large amount of my work at Bulb was independent so it important (especially during lockdown) to stay motivated and make realistic work plans for my week
+- **Meeting deadlines:** Bulb, as a rapidly growing company, had a fast working environment, things would change frequently and our targets were demanding
+- **Attention to detail:** as a mathematician who chose to specialise in pure mathematics, dealing with the precise is in my nature
 
 
 
