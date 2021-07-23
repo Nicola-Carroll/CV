@@ -1,7 +1,6 @@
 ## Nicola Carroll
 
-**[Projects](https://github.com/Nicola-Carroll/CV#projects) | [Experience](https://github.com/Nicola-Carroll/CV#Experience) | [Education](https://github.com/Nicola-Carroll/CV#education) | [Skills](https://github.com/Nicola-Carroll/CV#skills) | [Interests and hobbies](https://github.com/Nicola-Carroll/CV#interests-and-hobbies) | <a href="https://www.freecodecamp.org/" target="_blank">LinkedIn</a>
-[LinkedIn](https://www.linkedin.com/in/nicola-carroll-b3b299147/)**
+**[Projects](https://github.com/Nicola-Carroll/CV#projects) | [Experience](https://github.com/Nicola-Carroll/CV#Experience) | [Education](https://github.com/Nicola-Carroll/CV#education) | [Skills](https://github.com/Nicola-Carroll/CV#skills) | [Interests and hobbies](https://github.com/Nicola-Carroll/CV#interests-and-hobbies) | <a href="https://www.linkedin.com/in/nicola-carroll-b3b299147/" target="_blank" rel="noopener noreferrer">LinkedIn</a>**
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
  -->
