@@ -107,39 +107,14 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 
 As a Maths graduate, I have an aptitude for logical thinking and a curious mindset. I'm always excited to identify and address the root cause of the problem I'm working on.
 
-At Bulb, I lead a cash-preservation project on MAP Invoicing, which so far has saved Bulb £1mil and counting. The low data quality in the MAP invoices was in some part due to poor data passback between energy suppliers and MAPs. The process I developed claimed back money **after** Bulb have been overcharged. Alongside this I worked on addressing the root cause of the overcharges. After collating a large sample of meters with incorrect charges, I anaylsed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speak with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, we developed a simple weekly task which would prevent meters from being charged incorrectly by MAPs in the first place.
-
-#### Teamwork
+At Bulb, I lead a cash-preservation project on MAP Invoicing, which so far has saved Bulb £1mil and counting. The low data quality in the MAP invoices was in some part due to poor data passback between energy suppliers and MAPs. The process I developed claimed back money **after** Bulb have been overcharged. Alongside this I worked on addressing the root cause of the overcharges. I collated a large sample of meters with incorrect charges and anaylsed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speaking with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, we developed a weekly operational task which would prevent meters from being charged incorrectly by MAPs in the first place.
 
 #### Communication
 
-<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at an underpriviledged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. While working on Data Cleansing
 
--STAR
--What was the situation/task? (ST)
+#### Self-starter and independent learner
 
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 
 
