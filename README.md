@@ -48,7 +48,7 @@ This role involved:
 - Python, SQL, advanced Excel, git (self-taught)
 - Root cause analysis on inaccurate MAP backing data, to develop internal operational processes which improve data passback to MAPs
 - Project planning, roadmapping, and calculating quarterly targets
-- Negotiating with MAPs to receive repayments
+- Negotiating with MAPs to receive rebates from incorrect charges
 
 \
 **Data Cleansing (Faster Switching) Lead** (January 2020 - August 2020)  
