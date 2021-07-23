@@ -111,7 +111,7 @@ At Bulb, I lead a cash-preservation project on MAP Invoicing, which has saved Bu
 
 #### Communication
 
-I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at an underpriviledged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. During my Data Cleansing (Faster Switching) role at Bulb, I was responsible for delivering clear, conscise training resources to onboard Operational Assistants.
+I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at an underprivileged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. During my Data Cleansing (Faster Switching) role at Bulb, I was responsible for delivering clear, concise training resources to onboard Operational Assistants.
 
 
 #### Other skills
