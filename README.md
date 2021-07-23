@@ -37,7 +37,7 @@ _Meter Asset Provider (MAP):_ a third party within the energy industry, responsi
 - Bulb receives ~100 monthly invoices from ~30 different MAPs for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year
 - MAPs notoriously use inaccurate data for these invoices, resulting in millions of pounds of overcharges
 
-Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created and automated process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will grow continuously now the process is up and running.
+Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created and automated a process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will grow continuously now the process is up and running.
 
 This role involved:
 
