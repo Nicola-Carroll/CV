@@ -123,7 +123,7 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 #### Sporty stuff
 - Netball - I've played socially since I was at school, (at Univeristy I captained the Maths Society's Netball team), now I play at a weekly social league in London
 - Yoga - I love yoga for both the physical and mental wellbeing it brings me
-- Running
-- Badminton
+- Running - I've done a half Marathon and would love to do more
+- Badminton - at Uni I started the Maths Society's Badminton team
 - Anything which involves running around and catching/throwing/or hitting things with a bat!
 
