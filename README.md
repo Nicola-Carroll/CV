@@ -5,12 +5,21 @@
 
 oh god who am i  ? ??
 
+
+
+
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+
+
+
+
+
 
 ## Work Experience
 
@@ -60,11 +69,49 @@ Bulb’s Member Operations team functions without departments to provide a holis
 This role involved:
 
 - A deep understanding of the energy industry to provide complete and informative member service
-- Completing operational tasks, which in other companies are handled by 10-15 departments
+- Identifying the root causes of member complaints and completing complex operational tasks, which in other companies are handled by 10-15 departments, to resolve them
 - Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
 
 
+
+
+
+
+## Education
+
+#### Makers Academy (July 2021 - October 2021)
+<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
+- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- you might also mention aspects some other skills/knowledge listed below: 
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine -->
+
+#### University of Birstol (September 2021 - June 2018)
+_Mathematics MSci (Integrated Master's), First Class (Hons)_
+
+- Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
+- Completed written independent research projects between 20-100 pages in length
+- Used various mathematical softwares, such as MATLAB, Maple, R and LaTeX
+- Gained strong numerical, analytic and problem-solving skills and high attention to detail
+
+
+
+
+
+
 ## Skills
+
+#### Problem solving
+
+As a Maths graduate, I have an aptitude for logical thinking and a curious mindset. I'm always excited to identify and address the root cause of the problem I'm working on.
+
+At Bulb, I lead a cash-preservation project on MAP Invoicing, which so far has saved Bulb £1mil and counting. The low data quality in the MAP invoices was in some part due to poor data passback between energy suppliers and MAPs. The process I developed claimed back money **after** Bulb have been overcharged. Alongside this I worked on addressing the root cause of the overcharges. After collating a large sample of meters with incorrect charges, I anaylsed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speak with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, we developed a simple weekly task which would prevent meters from being charged incorrectly by MAPs in the first place.
+
+#### Teamwork
+
+#### Communication
 
 <!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -94,35 +141,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
-## Education
 
-#### Makers Academy (July 2021 - October 2021)
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
 
-#### University of Birstol (September 2021 - June 2018)
-_Mathematics MSci (Integrated Master's), First Class (Hons)_
 
-- Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
-- Completed written independent research projects between 20-100 pages in length
-- Used various mathematical softwares, such as MATLAB, Maple, R and LaTeX
-- Gained strong numerical, analytic and problem-solving skills and high attention to detail
+
 
 ## Interests and hobbies
 
 #### Nerd stuff
 - I attend a weekly TDD mobbing session run by the Ladies of Code London group to practice katas in Python
 - I'm teaching myself Flask (Python Web Framework) in my spare time
-- I love kicking back and playing video games (so lockdown was in someways a treat for me)
+- I love playing video games (so lockdown was in someways a treat for me)
 
 #### Sporty stuff
 - Netball - I've played socially since I was at school, (at Univeristy I captained the Maths Society's Netball team), now I play at a weekly social league in London
-- Yoga - I love yoga for both the physical and mental wellbeing it brings me
+- Yoga - I enjoy yoga for both the physical and mental wellbeing it brings me
 - Running - I've done a half Marathon and would love to do more
 - Badminton - at Uni I started the Maths Society's Badminton team
 - Anything which involves running around and catching/throwing/or hitting things with a bat!
