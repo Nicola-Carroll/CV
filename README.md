@@ -118,7 +118,7 @@ I have strong written and verbal communication skills. Throughout university I v
 #### Other skills
 
 - **Quick learner:** to be able to deliver quickly on my Data Cleansing, and MAP Invoicing projects at Bulb, I had to teach myself Python and SQL, and upskill in Excel
-- **Self-starter:** a large amount of my work at Bulb was independent so it important (especially during lockdown) to stay motivated and make realistic work plans for my week
+- **Self-starter:** a large amount of my work at Bulb was done independently, so it was important (especially during lockdown) to stay motivated and make realistic work plans each week
 - **Meeting deadlines:** Bulb, as a rapidly growing company, had a fast working environment, things would change frequently and our targets were demanding
 - **Attention to detail:** as a mathematician who chose to specialise in pure mathematics, dealing with the precise is in my nature
 
