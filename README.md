@@ -121,8 +121,8 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 - I love kicking back and playing video games (so lockdown was in someways a treat for me)
 
 #### Sporty stuff
-- Netball
-- Yoga
+- Netball - I've played socially since I was at school, (at Univeristy I captained the Maths Society's Netball team), now I play at a weekly social league in London
+- Yoga - I love yoga for both the physical and mental wellbeing it brings me
 - Running
 - Badminton
 - Anything which involves running around and catching/throwing/or hitting things with a bat!
