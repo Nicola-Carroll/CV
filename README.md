@@ -1,5 +1,7 @@
 ## Nicola Carroll
 
+**[Projects](https://github.com/Nicola-Carroll/CV/edit/master/README.md) | [Experience](https://github.com/Nicola-Carroll/CV/edit/master/README.md) | [Education](https://github.com/Nicola-Carroll/CV/edit/master/README.md) | [Skills](https://github.com/Nicola-Carroll/CV/edit/master/README.md) | [Interests and hobbies](https://github.com/Nicola-Carroll/CV/edit/master/README.md) | [LinkedIn](https://www.linkedin.com/in/nicola-carroll-b3b299147/)**
+
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
  -->
 
