@@ -28,7 +28,7 @@ _Meter Asset Provider (MAP):_ a third party within the energy industry, responsi
 - Bulb receives ~100 monthly invoices from ~30 different MAPs for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year
 - MAPs notoriously use inaccurate data for these invoices, resulting in millions of pounds of overcharges
 
-Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created and automated process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will continue to grow for as long as the process is run.
+Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created and automated process to reconcile these invoices. As of June 2021 my work had saved Bulb over £1mil, and this figure will grow continuously now the process is up and running.
 
 This role involved:
 
@@ -118,11 +118,12 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 #### Nerd stuff
 - I attend a weekly TDD mobbing session run by the Ladies of Code London group to practice katas in Python
 - I'm teaching myself Flask (Python Web Framework) in my spare time
-- Videogames
+- I love kicking back and playing video games (so lockdown was in someways a treat for me)
 
 #### Sporty stuff
 - Netball
 - Yoga
 - Running
+- Badminton
 - Anything which involves running around and catching/throwing/or hitting things with a bat!
 
