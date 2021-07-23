@@ -5,18 +5,25 @@
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
  -->
 
-oh god who am i  ? ??
+
+
+
+I’ve always been interested in how things works. I chose to study Maths at university, and then further specialised in Pure Mathematics, because of how fundamental I felt it was to other fields.
+
+My interest in software engineering started to emerge shortly after I graduated. While working for a rapidly growing start-up, it quickly became apparent that the most interesting and impactful solutions to business problems were tech driven ones.
+
+After learning to code, I also found that I got the same type of enjoyment from programming as I did from Mathematics. This lead me to the decision to quit my job and enroll on the Makers Academy intensive 16 week bootcamp to become a Full Stack developer.
 
 
 
 
 
 ## Projects
-
+<!-- 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 
 
@@ -62,7 +69,7 @@ This role involved:
 - Delivering a project to ensure Bulb’s industry data is up to date
 - Basic Python, advanced Excel (self-taught)
 - Building a robust process to validate monthly datasets from Ofgem
-- Write comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
+- Writing comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 
 \
 **Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
@@ -74,7 +81,6 @@ This role involved:
 - A deep understanding of the energy industry to provide complete and informative member service
 - Identifying the root causes of member complaints and completing complex operational tasks, which in other companies are handled by 10-15 departments, to resolve them
 - Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
-
 
 
 
