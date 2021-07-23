@@ -97,8 +97,6 @@ _Mathematics MSci (Integrated Master's), First Class (Hons)_
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
 - Completed written independent research projects between 20-100 pages in length
 - Used various mathematical softwares, such as MATLAB, Maple, R and LaTeX
-- Gained strong numerical, analytic and problem-solving skills and high attention to detail
-
 
 
 
