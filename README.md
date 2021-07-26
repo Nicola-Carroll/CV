@@ -5,14 +5,14 @@
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
  -->
 
-
+<!-- 
 
 
 I’ve always been interested in how things works. I chose to study Maths at university, and then further specialised in Pure Mathematics, because of how fundamental I felt it was to other fields.
 
 My interest in software engineering started to emerge shortly after I graduated. While working for a rapidly growing start-up, it quickly became apparent that the most interesting and impactful solutions to business problems were tech driven ones.
 
-After learning to code, I also found that I got the same type of enjoyment from programming as I did from Mathematics. This lead me to the decision to quit my job and enroll on the Makers Academy intensive 16 week bootcamp to become a Full Stack developer.
+After learning to code, I also found that I got the same type of enjoyment from programming as I did from Mathematics. This lead me to the decision to quit my job and enroll on the Makers Academy intensive 16 week bootcamp to become a Full Stack developer. -->
 
 
 
