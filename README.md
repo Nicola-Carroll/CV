@@ -52,7 +52,8 @@ During my time at Bulb, I had three different roles which lead me towards the de
 
 
 \
-**Project Lead (Invoice Reconciliation)** (May 2020 - June 2021)
+### Project Lead (Invoice Reconciliation)
+**(May 2020 - June 2021)**
 
 Bulb receives ~100 monthly meter invoices from ~30 different third parties for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year. These invoices are based on notoriously inaccurate data, resulting in millions of pounds of overcharges for Bulb, which until May 2020 were paid in full.
 
@@ -67,7 +68,8 @@ This role involved:
 - Negotiating with third parties to receive rebates from incorrect charges
 
 \
-**Data Cleansing Lead** (January 2020 - August 2020)  
+### Data Cleansing Lead
+**(January 2020 - August 2020)**
 
 Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
 
@@ -79,7 +81,8 @@ This role involved:
 - Writing comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 
 \
-**Graduate Energy Specialist (Member Operations)** (October 2018 - December 2021)
+### Graduate Energy Specialist
+**(October 2018 - December 2021)**
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
 
@@ -100,7 +103,7 @@ This role involved:
 
 ## Education
 
-#### Makers Academy
+### Makers Academy
 **(July 2021 - October 2021)**
 
 Makers Academy is a 16 week software development bootcamp, comprising a mix of self-led learning, coach-led workshops, pairing sessions, and group projects.
@@ -111,9 +114,9 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-#### Mathematics MSci,  University of Birstol
-**(September 2021 - June 2018)
-First Class (Hons)**
+### Mathematics MSci,  University of Bristol
+**(September 2021 - June 2018)**
+**First Class (Hons)**
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
 - Completed written independent research projects between 20-100 pages in length
@@ -134,18 +137,18 @@ First Class (Hons)**
 
 ## Skills
 
-#### Problem solving
+### Problem solving
 
 As a Maths graduate, I have an aptitude for logical thinking and a curious mindset. I'm always excited to identify and address the root cause of the problem I'm working on.
 
 At Bulb, I lead a cash-preservation project on Meter Invoicing, which has saved Bulb £1.3mil and counting. The low data quality in the meter invoices was in some part due to poor data passback between energy suppliers and third parties. I collated a large sample of meters with incorrect charges and anaylsed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speaking with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, I developed a weekly operational task which would prevent meters from being invoiced incorrectly in the first place.
 
-#### Communication
+### Communication
 
 I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at a local underprivileged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. During my Data Cleansing (Faster Switching) role at Bulb, I was responsible for delivering clear, concise training resources to onboard Operational Assistants.
 
 
-#### Other skills
+### Other skills
 
 - **Quick learner:** to be able to deliver quickly on the Data Cleansing and Meter Invoicing projects at Bulb, I had to teach myself Python and SQL, and upskill in Excel
 - **Self-starter:** a large amount of my work at Bulb was done independently, so it was important (especially during lockdown) to stay motivated and make realistic work plans each week
@@ -163,12 +166,12 @@ I have strong written and verbal communication skills. Throughout university I v
 
 ## Interests and hobbies
 
-#### Nerd stuff
+### Nerd stuff
 - I'm part of the Ladies of Code London network, which includes a weekly TDD mobbing session to practice katas in Python
 - I'm teaching myself Flask (Python Web Framework) in my spare time
 - I love playing video games (so lockdown was in someways a treat for me)
 
-#### Sporty stuff
+### Sporty stuff
 - Netball - I've played socially since I was at school, (at Univeristy I captained the Maths Society's Netball team), now I play at a weekly social league in London
 - Yoga - I enjoy yoga for both the physical and mental wellbeing it brings me
 - Running - I've done a half Marathon and would love to do more
