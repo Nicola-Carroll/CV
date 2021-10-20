@@ -51,7 +51,7 @@ After learning to code, I also found that I got the same type of enjoyment from 
 During my time at Bulb, I had three different roles which lead me towards the decision to pursue Software Development.
 
 
-\
+
 ### Project Lead (Invoice Reconciliation)
 **(May 2020 - June 2021)**
 
@@ -67,7 +67,7 @@ This role involved:
 - Project planning, roadmapping, and calculating quarterly targets
 - Negotiating with third parties to receive rebates from incorrect charges
 
-\
+
 ### Data Cleansing Lead
 **(January 2020 - August 2020)**
 
@@ -80,7 +80,7 @@ This role involved:
 - Building a robust process to validate monthly datasets from Ofgem
 - Writing comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 
-\
+
 ### Graduate Energy Specialist
 **(October 2018 - December 2021)**
 
@@ -115,7 +115,7 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
 ### Mathematics MSci,  University of Bristol
-**(September 2021 - June 2018)**
+**(September 2021 - June 2018)**\
 **First Class (Hons)**
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
