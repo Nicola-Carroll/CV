@@ -44,8 +44,6 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 ## Experience
 
-### Bulb (October 2018 - June 2021)
-
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
 During my time at Bulb, I had three different roles which lead me towards the decision to pursue Software Development.
@@ -53,7 +51,8 @@ During my time at Bulb, I had three different roles which lead me towards the de
 
 
 ### Project Lead (Invoice Reconciliation)
-**(May 2020 - June 2021)**
+**(May 2020 - June 2021)**\
+**Bulb**
 
 Bulb receives ~100 monthly meter invoices from ~30 different third parties for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year. These invoices are based on notoriously inaccurate data, resulting in millions of pounds of overcharges for Bulb, which until May 2020 were paid in full.
 
@@ -69,7 +68,8 @@ This role involved:
 
 
 ### Data Cleansing Lead
-**(January 2020 - August 2020)**
+**(January 2020 - August 2020)**\
+**Bulb**
 
 Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
 
@@ -82,7 +82,8 @@ This role involved:
 
 
 ### Graduate Energy Specialist
-**(October 2018 - December 2021)**
+**(October 2018 - December 2021)**\
+**Bulb**
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
 
