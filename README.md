@@ -2,10 +2,10 @@
 
 **[Projects](https://github.com/Nicola-Carroll/CV#projects) | [Experience](https://github.com/Nicola-Carroll/CV#Experience) | [Education](https://github.com/Nicola-Carroll/CV#education) | [Skills](https://github.com/Nicola-Carroll/CV#skills) | [Interests and hobbies](https://github.com/Nicola-Carroll/CV#interests-and-hobbies) | <a href="https://www.linkedin.com/in/nicola-carroll-b3b299147/" target="blank" rel="noopener noreferrer">LinkedIn</a>**
 
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
- -->
+I'm a recent Makers Academy graduate and have previous experience of using Python & SQL to build new operational processes. I'm looking to move into a Junior Developer role where I can continue to learn new technologies, get to the root cause of business problems, and deliver elegant solutions.
 
 <!-- 
+
 
 
 I’ve always been interested in how things works. I chose to study Maths at university, and then further specialised in Pure Mathematics, because of how fundamental I felt it was to other fields.
