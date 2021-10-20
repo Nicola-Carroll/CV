@@ -100,7 +100,7 @@ This role involved:
 
 ## Education
 
-#### Makers Academy (July 2021 - October 2021)
+**Makers Academy** (July 2021 - October 2021)
 
 Makers Academy is a 16 week software development bootcamp, comprising a mix of self-led learning, pairing sessions, and group projects.
 
@@ -110,7 +110,7 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-#### University of Birstol (September 2021 - June 2018), Mathematics MSci (Integrated Master's), First Class (Hons)
+**Mathematics MSci, First Class (Hons), University of Birstol** (September 2021 - June 2018)
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
 - Completed written independent research projects between 20-100 pages in length
