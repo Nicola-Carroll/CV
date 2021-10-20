@@ -24,11 +24,12 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 
 ## Projects
-<!-- 
+ 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              | -->
+|[ **Second Helpings**  ](https://github.com/Nicola-Carroll/tech_for_good/blob/main/README.md)| A webapp which connects businesses with surplus to frontline charities | MERN stack, Jest, Cypress, Google Maps API |
+| [**Acebook**](https://github.com/Nicola-Carroll/acebook) | A Facebook clone | Ruby on Rails, RSpec, Capybara| 
+| [**Bank tech test**](https://github.com/Nicola-Carroll/bank_tech_test) | A simple REPL program replicating a bank account, focusing on code quality and TDD | Ruby, RSpec| 
 
 
 
@@ -47,7 +48,7 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
-During my time at Bulb, I had three different roles which gradually lead me towards the decision to pursue Software Development.
+During my time at Bulb, I had three different roles which lead me towards the decision to pursue Software Development.
 
 
 \
