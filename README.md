@@ -82,7 +82,7 @@ This role involved:
 - Writing comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 
 \
-**Graduate Energy Specialist (Member Operations)** (October 2018 - January 2020)
+**Graduate Energy Specialist (Member Operations)** (October 2018 - December 2021)
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
 
@@ -164,7 +164,7 @@ I have strong written and verbal communication skills. Throughout university I v
 ## Interests and hobbies
 
 #### Nerd stuff
-- I attend a weekly TDD mobbing session run by the Ladies of Code London group to practice katas in Python
+- I'm part of the Ladies of Code London network, which includes a weekly TDD mobbing session to practice katas in Python
 - I'm teaching myself Flask (Python Web Framework) in my spare time
 - I love playing video games (so lockdown was in someways a treat for me)
 
