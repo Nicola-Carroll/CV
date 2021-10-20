@@ -110,8 +110,7 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-#### University of Birstol (September 2021 - June 2018)
-_Mathematics MSci (Integrated Master's), First Class (Hons)_
+#### University of Birstol (September 2021 - June 2018), Mathematics MSci (Integrated Master's), First Class (Hons)
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
 - Completed written independent research projects between 20-100 pages in length
