@@ -54,10 +54,9 @@ During my time at Bulb, I had three different roles which lead me towards the de
 \
 **Project Lead (Invoice Reconciliation)** (May 2020 - June 2021)
 
-- Bulb receives ~100 monthly meter invoices from ~30 different third parties for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year
-- These companies notoriously use inaccurate data for their invoices, resulting in millions of pounds of overcharges for Bulb
+Bulb receives ~100 monthly meter invoices from ~30 different third parties for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year. These companies notoriously use inaccurate data for their invoices, resulting in millions of pounds of overcharges for Bulb.
 
-Until May 2020 these invoices were paid in full, with no validation performed on the backing data. I independently created and automated a process to reconcile these invoices. As of Oct 2021 my work had saved Bulb over £1.3mil, and identified a further £8mil of potential savings.
+Until May 2020 they were paid in full, with no validation performed on the backing data. I independently created and automated a reconciliation process. As of Oct 2021 my work had saved Bulb over £1.3mil, and identified a further £8mil of potential savings.
 
 This role involved:
 
