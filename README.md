@@ -69,9 +69,7 @@ This role involved:
 \
 **Data Cleansing Lead** (January 2020 - August 2020)  
 
-_Faster Switching:_ a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days)
-
-Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
+Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
 
 This role involved:
 
