@@ -2,7 +2,7 @@
 
 **[Projects](https://github.com/Nicola-Carroll/CV#projects) | [Experience](https://github.com/Nicola-Carroll/CV#Experience) | [Education](https://github.com/Nicola-Carroll/CV#education) | [Skills](https://github.com/Nicola-Carroll/CV#skills) | [Interests and hobbies](https://github.com/Nicola-Carroll/CV#interests-and-hobbies) | <a href="https://www.linkedin.com/in/nicola-carroll-b3b299147/" target="blank" rel="noopener noreferrer">LinkedIn</a>**
 
-I'm a recent Makers Academy graduate and have previous experience of using Python & SQL to build new operational processes. I'm looking to move into a Junior Developer role where I can continue to learn new technologies, get to the root cause of business problems, and deliver elegant solutions.
+I'm a recent Makers Academy graduate with previous experience of using Python & SQL to build new operational processes. I'm looking to move into a Junior Developer role where I can continue to learn new technologies, get to the root cause of business problems, and deliver elegant solutions.
 
 <!-- 
 
