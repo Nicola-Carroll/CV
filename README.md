@@ -104,13 +104,14 @@ This role involved:
 ## Education
 
 #### Makers Academy (July 2021 - October 2021)
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
+
+Makers Academy is a 16 week software development bootcamp, comprising a mix of self-led learning, pairing sessions, and group projects.
+
+- Refined Agile methodologies while collaborating within a team during fast-paced group projects
+- Learnt how to pick up new technologies quickly, demonstrated by the delivery of the Acebook and Second Helpings projects, written in frameworks which the team had no prior experience of
+- Developed understanding of OOP principles, TDD, MVC, DDD 
+- Ruby, Rails, Sinatra, JavaScript, MERN
+- RSpec, Capybara, Jasmine, Jest, Cypress
 
 #### University of Birstol (September 2021 - June 2018)
 _Mathematics MSci (Integrated Master's), First Class (Hons)_
