@@ -44,7 +44,7 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 ## Experience
 
-### Project Lead (Invoice Reconciliation)
+### Project Lead (Invoice Reconciliation) | Bulb
 **(May 2020 - June 2021)**\
 **Bulb**
 
