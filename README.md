@@ -44,15 +44,11 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 ## Experience
 
-[Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
-
-During my time at Bulb, I had three different roles which lead me towards the decision to pursue Software Development.
-
-
-
 ### Project Lead (Invoice Reconciliation)
 **(May 2020 - June 2021)**\
 **Bulb**
+
+[Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
 Bulb receives ~100 monthly meter invoices from ~30 different third parties for the daily rental, removal, and non-return of meter assets, totalling >£60mil a year. These invoices are based on notoriously inaccurate data, resulting in millions of pounds of overcharges for Bulb, which until May 2020 were paid in full.
 
