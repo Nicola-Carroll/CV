@@ -78,8 +78,7 @@ This role involved:
 
 
 ### Graduate Energy Specialist
-**(October 2018 - December 2021)**\
-**Bulb**
+**(October 2018 - December 2021)** | **Bulb**
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
 
