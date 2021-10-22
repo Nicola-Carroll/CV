@@ -28,7 +28,7 @@ After learning to code, I also found that I got the same type of enjoyment from 
 | Name                         | Description       | Technologies      | Testing |
 | ---------------------------- | ----------------- | ----------------- | --------|
 |[ **Second Helpings**  ](https://github.com/Nicola-Carroll/tech_for_good/blob/main/README.md)| A webapp which connects businesses with surplus to frontline charities | MERN stack, Google Maps API, Geocoding API |Jest, Cypress |
-| [**Acebook**](https://github.com/Nicola-Carroll/acebook) | A Facebook clone | Ruby on Rails, jQuery, Active Record ORM| RSpec, Capybara |
+| [**Acebook**](https://github.com/Nicola-Carroll/acebook) | A Facebook style webapp where users can make posts and interact with other users' content | Ruby on Rails, jQuery, Active Record ORM| RSpec, Capybara |
 | [**Bank tech test**](https://github.com/Nicola-Carroll/bank_tech_test) | A simple REPL program replicating a bank account, focusing on code quality and TDD | Ruby | RSpec |
 
 
