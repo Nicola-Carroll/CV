@@ -59,11 +59,11 @@ This role involved:
 - Python, SQL, advanced Excel, git (self-taught)
 - Root cause analysis on inaccurate backing data, to develop internal operational processes which improve data passback to relevant third parties
 - Project planning, roadmapping, and calculating quarterly targets
-- Negotiating with third parties to receive rebates from incorrect charges
+- Negotiating with third parties to receive rebates for incorrect charges
 
 
 ### Project Lead (Data Cleansing) | Bulb
-**(January 2020 - August 2020)**\
+**(January 2020 - August 2020)**
 
 Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
 
