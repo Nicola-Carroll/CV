@@ -63,7 +63,7 @@ This role involved:
 - Negotiating with third parties to receive rebates from incorrect charges
 
 
-### Data Cleansing Lead
+### Project Lead (Data Cleansing)
 **(January 2020 - August 2020)**\
 **Bulb**
 
