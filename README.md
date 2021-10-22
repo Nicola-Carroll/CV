@@ -45,7 +45,7 @@ After learning to code, I also found that I got the same type of enjoyment from 
 ## Experience
 
 ### Project Lead (Invoice Reconciliation) | Bulb
-**(May 2020 - June 2021)**\
+**(May 2020 - June 2021)**
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
@@ -108,7 +108,7 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-### Mathematics MSci - First Class (Hons),  University of Bristol
+### Mathematics MSci, First Class (Hons) | University of Bristol
 **(September 2021 - June 2018)**
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
