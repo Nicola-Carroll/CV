@@ -46,7 +46,6 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 ### Project Lead (Invoice Reconciliation) | Bulb
 **(May 2020 - June 2021)**\
-**Bulb**
 
 [Bulb](https://bulb.co.uk/mission/) is a rapidly expanding and innovative green energy supplier, named the fastest growing company in Europe of FY19/20.
 
@@ -63,9 +62,8 @@ This role involved:
 - Negotiating with third parties to receive rebates from incorrect charges
 
 
-### Project Lead (Data Cleansing)
+### Project Lead (Data Cleansing) | Bulb
 **(January 2020 - August 2020)**\
-**Bulb**
 
 Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
 
@@ -77,8 +75,8 @@ This role involved:
 - Writing comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
 
 
-### Graduate Energy Specialist
-**(October 2018 - December 2021)** | **Bulb**
+### Graduate Energy Specialist | Bulb
+**(October 2018 - December 2021)**
 
 Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
 
@@ -110,9 +108,8 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-### Mathematics MSci,  University of Bristol
-**(September 2021 - June 2018)**\
-**First Class (Hons)**
+### Mathematics MSci - First Class (Hons),  University of Bristol
+**(September 2021 - June 2018)**
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
 - Completed written independent research projects between 20-100 pages in length
