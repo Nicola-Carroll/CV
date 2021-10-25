@@ -47,42 +47,40 @@ After learning to code, I also found that I got the same type of enjoyment from 
 ### Project Lead (Invoice Reconciliation) | Bulb
 **(May 2020 - June 2021)**
 
-[Bulb Energy](https://bulb.co.uk/mission/) receives ~100 monthly meter invoices from ~30 different third parties for the daily rental, removal, and non-return of gas and electric meter assets, totalling >£60mil a year. These invoices are based on notoriously inaccurate data, resulting in millions of pounds of overcharges for Bulb, which until May 2020 were paid in full.
+[Bulb Energy](https://bulb.co.uk/mission/) receives monthly meter invoices from third parties for the rental, removal, and misplacement of gas and electric meter assets, totalling >£60mil a year. These invoices are based on notoriously inaccurate data, resulting in millions of pounds of overcharges for Bulb, which until May 2020 were paid in full.
 
 I independently created and automated a reconciliation process for these invoices. As of Oct 2021 my work had saved Bulb over £1.3mil, and identified a further £8mil of potential savings.
 
-This role involved:
+- Designed and automated a process to check invoice backing data against accurate industry data, and disputed identified overcharges
+- Self-taught tech and tools: Python, SQL, Excel, Git, GitHub, APIs, Mode, GCP, Jira, Trello, Confluence
+- Ran root cause analysis on inaccurate invoice data, then developed reactive operational processes to improve data passback to relevant third parties
+- Composed a metering invoice query which was used by the data science guild to build a comprehensive company-wide “Cost Warehouse”
+- Owned project planning, roadmapping, and calculating of quarterly targets
+- Negotiated with third parties to receive rebates for incorrect charges
 
-- Building and automating a process to check invoice backing data against accurate industry data, and to dispute any identified overcharges
-- Python, SQL, advanced Excel, git (self-taught)
-- Root cause analysis on inaccurate backing data, to develop internal operational processes which improve data passback to relevant third parties
-- Project planning, roadmapping, and calculating quarterly targets
-- Negotiating with third parties to receive rebates for incorrect charges
 
 
 ### Project Lead (Data Cleansing) | Bulb
 **(January 2020 - August 2020)**
 
-Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). Industry databases contain outdated information. For Faster Switching to succeed these underlying industry databases must be accurate.
+Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). This initiative was blocked by inaccurate data within industry databases.
 
-This role involved:
+I delivered a project to ensure Bulb’s industry data for 1.7mil accounts was up to date.
 
-- Delivering a project to ensure Bulb’s industry data is up to date
-- Basic Python, advanced Excel (self-taught)
-- Building a robust process to validate monthly datasets from Ofgem
-- Writing comprehensive instructions for out-sourced operations assistants, with little knowledge of industry concepts
+- Built and semi-automated a robust process
+- Self-taught tech and tools: Python, Excel, Mode, Trello, Confluence
+- Wrote comprehensive instructions for out-sourced operations assistants who had little knowledge of industry concepts
+
 
 
 ### Graduate Energy Specialist | Bulb
 **(October 2018 - December 2019)**
 
-Bulb’s Member Operations team functions without departments to provide a holistic, one-stop support service.
+- Improved and ran complex operational processes to support 9 customer service teams 
+- Acted as a escalation point for ops issues and customer complaints
+- Worked quickly and prioritised effectively to reach demanding performance targets
+- Delivered excellent customer service
 
-This role involved:
-
-- A deep understanding of the energy industry to provide complete and informative member service
-- Identifying the root causes of member complaints and completing complex operational tasks, which in other companies are handled by 10-15 departments, to resolve them
-- Working quickly, multi-tasking, and prioritising effectively to reach demanding performance targets
 
 
 
@@ -98,11 +96,13 @@ This role involved:
 ### Makers Academy
 **(July 2021 - October 2021)**
 
-Makers Academy is a 16 week software development bootcamp, comprising a mix of self-led learning, coach-led workshops, pairing sessions, and group projects.
+Makers Academy is a 16 week software development bootcamp, comprising a mix of self-led learning, workshops, pairing sessions, and group projects.
 
-- Refined Agile methodologies while collaborating within a team during fast-paced group projects
-- Learnt how to pick up new technologies quickly, demonstrated by the delivery of the Acebook and Second Helpings projects, written in frameworks which the team had no prior experience of
-- Developed understanding of OOP principles, TDD, MVC, DDD 
+- Improved Agile ways of working during fast-paced group projects
+- Quickly picked up new technologies to deliver four projects, each using different tech stacks 
+- Converted project requirements into user stories and workable tickets
+- Developed understanding of OOP principles, TDD, MVC, DDD. Applied them to produce clean, high-quality code
+- Professional use of GitHub (PRs, code reviews, CI services)
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
