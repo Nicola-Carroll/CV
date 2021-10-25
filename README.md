@@ -134,7 +134,7 @@ As a Maths graduate, I have an aptitude for logical thinking and a curious minds
 
 At Bulb, I lead a cash-preservation project on Meter Invoicing, which has saved Bulb £1.3mil and counting. The low data quality in the meter invoices was in some part due to poor data passback between energy suppliers and third parties. I collated a large sample of meters with incorrect charges and analysed them to find patterns in which [dataflows](https://www.businessjuice.co.uk/energy-guides/data-flows/) were consistently missing or incorrect. After speaking with relevant third parties within the industry and collaborating with Bulb's dedicated Dataflow team, I developed a weekly operational task which would prevent meters from being invoiced incorrectly in the first place.
 
-### Communication
+### Transparency and communication
 
 I have strong written and verbal communication skills. Throughout university I volunteered as a Maths GCSE Tutor at a local underprivileged school, and a Financial Inclusion worker for young homeless people. I also completed a paid summer internship in the Fundraising and Communication team of a local charity immediately after graduating. During my Data Cleansing (Faster Switching) role at Bulb, I was responsible for delivering clear, concise training resources to onboard Operational Assistants.
 
@@ -145,6 +145,8 @@ I have strong written and verbal communication skills. Throughout university I v
 - **Self-starter:** a large amount of my work at Bulb was done independently, so it was important (especially during lockdown) to stay motivated and make realistic work plans each week
 - **Meeting deadlines:** Bulb, as a rapidly growing company, had a fast working environment, things would change frequently and our targets were demanding
 - **Attention to detail:** as a mathematician who chose to specialise in pure mathematics, dealing with the precise is in my nature
+- I also have experience with **data-driven decision making**, **stakeholder management**, and **process design**
+
 
 
 
