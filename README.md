@@ -65,7 +65,7 @@ I independently created and automated a reconciliation process for these invoice
 
 Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). This initiative was blocked by inaccurate data within industry databases.
 
-I delivered a project to ensure Bulb’s industry data for 1.7mil accounts was up to date.
+I delivered a project to ensure Bulb’s industry data for 1.7mil accounts was up to date. Before handing over this project in August, I had successfully halved the number of problematic accounts.
 
 - Built and semi-automated a robust process
 - Self-taught tech and tools: Python, Excel, Mode, Trello, Confluence
