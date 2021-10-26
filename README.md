@@ -161,7 +161,7 @@ I have strong written and verbal communication skills. Throughout university I v
 
 ### Nerd stuff
 - I'm part of the Ladies of Code London network, which includes a weekly TDD mobbing session to practice katas in Python
-- I'm teaching myself Flask (Python Web Framework) in my spare time
+- I'm currently working on a solo project to really solidify my code quality when building a web-app
 - I love playing video games (so lockdown was in some ways a treat for me)
 
 ### Sporty stuff
