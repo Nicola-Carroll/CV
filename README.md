@@ -44,7 +44,7 @@ After learning to code, I also found that I got the same type of enjoyment from 
 
 ## Experience
 
-### Project Lead (Invoice Reconciliation) | Bulb
+### Project Lead (Invoice Reconciliation) | BULB
 **(May 2020 - June 2021)**
 
 [Bulb Energy](https://bulb.co.uk/mission/) receives monthly meter invoices from third parties totalling >£60mil a year. These invoices are based on notoriously inaccurate data, resulting in millions of pounds of overcharges for Bulb, which until May 2020 were paid in full.
@@ -60,7 +60,7 @@ I independently created and automated a reconciliation process for these invoice
 
 
 
-### Project Lead (Data Cleansing) | Bulb
+### Project Lead (Data Cleansing) | BULB
 **(January 2020 - August 2020)**
 
 Faster Switching is a nationwide initiative to allow consumers to switch their supplier within 24hrs (current industry standard is 21 days). This initiative was blocked by inaccurate data within industry databases.
@@ -73,7 +73,7 @@ I delivered a project to ensure Bulb’s industry data for 1.7mil accounts was u
 
 
 
-### Graduate Energy Specialist | Bulb
+### Graduate Energy Specialist | BULB
 **(October 2018 - December 2019)**
 
 - Improved and ran complex operational processes to support 9 customer service teams 
@@ -93,7 +93,7 @@ I delivered a project to ensure Bulb’s industry data for 1.7mil accounts was u
 
 ## Education
 
-### Makers Academy
+### Software Development Bootcamp | MAKERS ACADEMY
 **(July 2021 - October 2021)**
 
 Makers Academy is a 16 week software development bootcamp, comprising a mix of self-led learning, workshops, pairing sessions, and group projects.
@@ -106,7 +106,7 @@ Makers Academy is a 16 week software development bootcamp, comprising a mix of s
 - Ruby, Rails, Sinatra, JavaScript, MERN
 - RSpec, Capybara, Jasmine, Jest, Cypress
 
-### Mathematics MSci, First Class (Hons) | University of Bristol
+### Mathematics MSci, First Class (Hons) | UNIVERSITY OF BRISTOL
 **(September 2021 - June 2018)**
 
 - Achieved the highest mark of the year in Master’s unit Axiomatic Set Theory
